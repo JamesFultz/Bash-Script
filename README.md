@@ -5,3 +5,5 @@ https://linuxconfig.org/bash-scripts-to-scan-and-monitor-network
 
 Ping sweep script to scan and monitor network
 27 May 2022 by Luke Reynolds
+
+Added a PowerShell script... We all got Windows systems to scan!
